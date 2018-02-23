@@ -1,0 +1,3 @@
+e:
+cd "E:\Skola\3 rocnik ZS\Konkurentne programovanie\Projekt3\AJSKlient"
+wsimport -d bin -s src http://localhost:8888/ajs?wsdl
